@@ -1,0 +1,2417 @@
+[
+    {
+        "pid": 0,
+        "name": "System Idle Process",
+        "cpu_percent": 0.546875,
+        "memory_percent": 4.947404146518363e-05,
+        "num_threads": 32,
+        "port_numbers": []
+    },
+    {
+        "pid": 4,
+        "name": "System",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.05127984397866283,
+        "num_threads": 397,
+        "port_numbers": [
+            139,
+            139,
+            445,
+            445,
+            27339,
+            5357,
+            5357
+        ]
+    },
+    {
+        "pid": 172,
+        "name": "",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.3209381069846462,
+        "num_threads": 0,
+        "port_numbers": []
+    },
+    {
+        "pid": 216,
+        "name": "Registry",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.34203878566954704,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 796,
+        "name": "smss.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.006852154742927934,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 844,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.16756857844257697,
+        "num_threads": 11,
+        "port_numbers": []
+    },
+    {
+        "pid": 1244,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.021471733995889697,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 1260,
+        "name": "csrss.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.043166101178372725,
+        "num_threads": 17,
+        "port_numbers": []
+    },
+    {
+        "pid": 1368,
+        "name": "csrss.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03557183581346703,
+        "num_threads": 17,
+        "port_numbers": []
+    },
+    {
+        "pid": 1528,
+        "name": "wininit.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03933186296482099,
+        "num_threads": 2,
+        "port_numbers": [
+            49665
+        ]
+    },
+    {
+        "pid": 1600,
+        "name": "services.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08989433334223866,
+        "num_threads": 7,
+        "port_numbers": [
+            49671
+        ]
+    },
+    {
+        "pid": 1608,
+        "name": "LsaIso.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.007148998991719035,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 1632,
+        "name": "lsass.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08467482196766178,
+        "num_threads": 10,
+        "port_numbers": [
+            49664,
+            49664
+        ]
+    },
+    {
+        "pid": 1660,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.055633559627599,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 1740,
+        "name": "Code.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.105942722912715,
+        "num_threads": 52,
+        "port_numbers": []
+    },
+    {
+        "pid": 1768,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.006777943680730158,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 1836,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.13397570428771727,
+        "num_threads": 16,
+        "port_numbers": []
+    },
+    {
+        "pid": 1864,
+        "name": "fontdrvhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0011626399744318154,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 1880,
+        "name": "SecurityHealthSystray.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.020506990187318615,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 1912,
+        "name": "WUDFHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01266535461508701,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 1980,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.03831764511478473,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 2012,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.10577550065256261,
+        "num_threads": 14,
+        "port_numbers": [
+            135
+        ]
+    },
+    {
+        "pid": 2160,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.035918154103723315,
+        "num_threads": 11,
+        "port_numbers": []
+    },
+    {
+        "pid": 2204,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0961527995875844,
+        "num_threads": 13,
+        "port_numbers": []
+    },
+    {
+        "pid": 2244,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08499640323718548,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 2272,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03027811337669238,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 2284,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02768072619977024,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 2416,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.053951442217782745,
+        "num_threads": 6,
+        "port_numbers": [
+            49666
+        ]
+    },
+    {
+        "pid": 2440,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.012813776739482563,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 2472,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02639440112167547,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 2536,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.008460061090546402,
+        "num_threads": 15,
+        "port_numbers": []
+    },
+    {
+        "pid": 2544,
+        "name": "ArmouryCrate.UserSessionHelper.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.16504540232785261,
+        "num_threads": 87,
+        "port_numbers": [
+            13031,
+            13032,
+            17945
+        ]
+    },
+    {
+        "pid": 2600,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.005516355623367975,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 2604,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.026740719411931752,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 2684,
+        "name": "conhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0002968442487911018,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 2688,
+        "name": "atieclxx.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.024984390939917736,
+        "num_threads": 12,
+        "port_numbers": []
+    },
+    {
+        "pid": 2720,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0323560231182301,
+        "num_threads": 13,
+        "port_numbers": []
+    },
+    {
+        "pid": 2812,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.022090159514204493,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 2828,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.06824944020122083,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 2864,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.018899083839700147,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 2940,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01444642010783362,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 3076,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.05382775711411979,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 3172,
+        "name": "RiotClientCrashHandler.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.006926365805125709,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 3256,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01645011878717356,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 3308,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.026196504955814732,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 3432,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.016573803890836517,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 3440,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03487919923295446,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 3500,
+        "name": "AsusSoftwareManagerAgent.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.18367237893949423,
+        "num_threads": 9,
+        "port_numbers": []
+    },
+    {
+        "pid": 3512,
+        "name": "Code.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.9754984757047824,
+        "num_threads": 29,
+        "port_numbers": []
+    },
+    {
+        "pid": 3520,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.10629497808794704,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 3536,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.008806379380802686,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 3548,
+        "name": "NVDisplay.Container.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.039851340400205416,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 3584,
+        "name": "Code.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.5265522233139494,
+        "num_threads": 9,
+        "port_numbers": []
+    },
+    {
+        "pid": 3676,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.011329555495527052,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 3700,
+        "name": "amdfendrsr.exe",
+        "cpu_percent": 0.2604166666666667,
+        "memory_percent": 0.013555887361460316,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 3708,
+        "name": "atiesrxx.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.009944282334501911,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 3716,
+        "name": "AsusCertService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.002127383783002896,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 3724,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.08692589085432764,
+        "num_threads": 6,
+        "port_numbers": [
+            49667,
+            49667
+        ]
+    },
+    {
+        "pid": 3764,
+        "name": "ArmourySwAgent.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01949277233728235,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 3928,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.022288055680065227,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 3984,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.007396369199044953,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 4060,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.09014170354956458,
+        "num_threads": 18,
+        "port_numbers": []
+    },
+    {
+        "pid": 4124,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.021174889747098594,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 4132,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.017588021740872782,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 4140,
+        "name": "MemCompression",
+        "cpu_percent": 0.0,
+        "memory_percent": 6.301657083544835,
+        "num_threads": 66,
+        "port_numbers": []
+    },
+    {
+        "pid": 4148,
+        "name": "ArmouryCrate.DenoiseAI.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.013778520548053641,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 4340,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.006555310494136831,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 4476,
+        "name": "WmiPrvSE.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04304241607470976,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 4632,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0625846624534573,
+        "num_threads": 11,
+        "port_numbers": []
+    },
+    {
+        "pid": 4660,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.005565829664833159,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 4672,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08655483554333876,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 4812,
+        "name": "ApplicationFrameHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.2674814051815153,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 4904,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02461333562892886,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 4940,
+        "name": "winlogon.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.014594842232229172,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 5048,
+        "name": "Code.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 1.063395047252657,
+        "num_threads": 14,
+        "port_numbers": []
+    },
+    {
+        "pid": 5064,
+        "name": "unsecapp.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.015188530729811375,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 5192,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.042003461203940905,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 5244,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02082857145684231,
+        "num_threads": 11,
+        "port_numbers": []
+    },
+    {
+        "pid": 5308,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.10204021052194125,
+        "num_threads": 22,
+        "port_numbers": []
+    },
+    {
+        "pid": 5332,
+        "name": "AsusOptimization.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01182429591017889,
+        "num_threads": 13,
+        "port_numbers": []
+    },
+    {
+        "pid": 5340,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0187506617153046,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 5404,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.009845334251571544,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 5468,
+        "name": "SystemSettingsBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0816074313968204,
+        "num_threads": 16,
+        "port_numbers": []
+    },
+    {
+        "pid": 5536,
+        "name": "AsusWiFiSmartConnect.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.3133191045990079,
+        "num_threads": 9,
+        "port_numbers": []
+    },
+    {
+        "pid": 5604,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01429799798343807,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 5620,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.12754407889724342,
+        "num_threads": 16,
+        "port_numbers": []
+    },
+    {
+        "pid": 5716,
+        "name": "AsusOptimizationStartupTask.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.009474278940582666,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 5740,
+        "name": "conhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.007569528344173095,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 5772,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.026196504955814732,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 5832,
+        "name": "RiotClientServices.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.16519382445224814,
+        "num_threads": 31,
+        "port_numbers": [
+            58966
+        ]
+    },
+    {
+        "pid": 5984,
+        "name": "sihost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.12561459128010125,
+        "num_threads": 12,
+        "port_numbers": []
+    },
+    {
+        "pid": 5996,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.005714251789228709,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 6060,
+        "name": "spoolsv.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.024316491380137757,
+        "num_threads": 7,
+        "port_numbers": [
+            49668
+        ]
+    },
+    {
+        "pid": 6076,
+        "name": "asus_framework.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04279504586738384,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 6156,
+        "name": "AsusMultiAntennaSvc.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.015188530729811375,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 6160,
+        "name": "ArmouryCrateControlInterface.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0012368510366295908,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 6188,
+        "name": "ArmouryCrate.Service.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08004899909066712,
+        "num_threads": 59,
+        "port_numbers": [
+            13010,
+            17532
+        ]
+    },
+    {
+        "pid": 6212,
+        "name": "AsusSoftwareManager.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04603559558335337,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 6220,
+        "name": "AsusAppService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.11762453358347409,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 6228,
+        "name": "AsusSystemDiagnosis.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.011651136765050746,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 6236,
+        "name": "AsusSwitch.exe",
+        "cpu_percent": 1.0416666666666667,
+        "memory_percent": 0.006085307100217587,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 6244,
+        "name": "AsusSystemAnalysis.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01595537837252172,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 6252,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1489910758724005,
+        "num_threads": 14,
+        "port_numbers": []
+    },
+    {
+        "pid": 6260,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.01798381407259425,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 6268,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.054371971570236814,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 6276,
+        "name": "DAX3API.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.058676213177707784,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 6284,
+        "name": "GameSDK.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.0009647438085710809,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 6304,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01457010521149658,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 6312,
+        "name": "RefreshRateService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.015040108605415825,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 6324,
+        "name": "ROGLiveService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02723545982658359,
+        "num_threads": 37,
+        "port_numbers": [
+            13030,
+            22112
+        ]
+    },
+    {
+        "pid": 6336,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.21818052286145984,
+        "num_threads": 18,
+        "port_numbers": []
+    },
+    {
+        "pid": 6348,
+        "name": "TNSLSNR.EXE",
+        "cpu_percent": 1.0416666666666667,
+        "memory_percent": 0.03262813034628861,
+        "num_threads": 3,
+        "port_numbers": [
+            1521,
+            1521,
+            49669,
+            8080,
+            8080
+        ]
+    },
+    {
+        "pid": 6360,
+        "name": "oracle.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.6745785553777788,
+        "num_threads": 31,
+        "port_numbers": [
+            49678,
+            49678
+        ]
+    },
+    {
+        "pid": 6368,
+        "name": "LightingService.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.03092127591573977,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 6376,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.002968442487911018,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 6388,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.035176043481745564,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 6396,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06362361732422615,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 6412,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07099524950253852,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 6432,
+        "name": "OfficeClickToRun.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07789687828693162,
+        "num_threads": 18,
+        "port_numbers": []
+    },
+    {
+        "pid": 6440,
+        "name": "RtkAudUService64.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02763125215830506,
+        "num_threads": 16,
+        "port_numbers": []
+    },
+    {
+        "pid": 6452,
+        "name": "MsMpEng.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.3295901273560775,
+        "num_threads": 67,
+        "port_numbers": []
+    },
+    {
+        "pid": 6476,
+        "name": "mfemms.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0749531728197532,
+        "num_threads": 25,
+        "port_numbers": []
+    },
+    {
+        "pid": 6576,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.10119915181703311,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 6600,
+        "name": "mysqld.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.002300542928131039,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 6716,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.010265863604025604,
+        "num_threads": 29,
+        "port_numbers": []
+    },
+    {
+        "pid": 6784,
+        "name": "DAX3API.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02127383783002896,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 6792,
+        "name": "steamwebhelper.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.13189779454617956,
+        "num_threads": 19,
+        "port_numbers": []
+    },
+    {
+        "pid": 7264,
+        "name": "gamingservices.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.08541693258963953,
+        "num_threads": 22,
+        "port_numbers": []
+    },
+    {
+        "pid": 7272,
+        "name": "gamingservicesnet.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0007421106219777545,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 7344,
+        "name": "mysqld.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01076060401867744,
+        "num_threads": 42,
+        "port_numbers": [
+            33060,
+            3306,
+            33060,
+            3306
+        ]
+    },
+    {
+        "pid": 7376,
+        "name": "mfevtps.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06931313209272226,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 7412,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.0525909060774902,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 7428,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.006481099431939056,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 7528,
+        "name": "conhost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.0023747539903288145,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 7640,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.020927519539772677,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 7856,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.034285510735372254,
+        "num_threads": 10,
+        "port_numbers": []
+    },
+    {
+        "pid": 7872,
+        "name": "python3.11.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.25889765898730593,
+        "num_threads": 17,
+        "port_numbers": []
+    },
+    {
+        "pid": 7912,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0178353919481987,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 8212,
+        "name": "MMSSHOST.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.12417984407761092,
+        "num_threads": 75,
+        "port_numbers": [
+            6646
+        ]
+    },
+    {
+        "pid": 8364,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.023450695654497044,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 8540,
+        "name": "cmd.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03730342726474846,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 8596,
+        "name": "SystemSettings.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.009647438085710808,
+        "num_threads": 47,
+        "port_numbers": []
+    },
+    {
+        "pid": 8676,
+        "name": "Windows.Media.BackgroundPlayback.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.023797013944753326,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 8776,
+        "name": "mcafee-security.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.15124214475906636,
+        "num_threads": 28,
+        "port_numbers": []
+    },
+    {
+        "pid": 8960,
+        "name": "SearchHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.438581440703877,
+        "num_threads": 73,
+        "port_numbers": []
+    },
+    {
+        "pid": 8976,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.005738988809961302,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 8988,
+        "name": "AggregatorHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0196411944616779,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 9080,
+        "name": "steamwebhelper.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.011428503578457419,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 9176,
+        "name": "powershell.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.3872580595687249,
+        "num_threads": 9,
+        "port_numbers": []
+    },
+    {
+        "pid": 9364,
+        "name": "NisSrv.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06753206659997567,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 9404,
+        "name": "Code.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.6374977612996237,
+        "num_threads": 9,
+        "port_numbers": []
+    },
+    {
+        "pid": 9544,
+        "name": "cmd.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0005194774353844281,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 9864,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.05818147276305595,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 10208,
+        "name": "steam.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1399373262842719,
+        "num_threads": 34,
+        "port_numbers": [
+            53919,
+            27036,
+            53918,
+            27060
+        ]
+    },
+    {
+        "pid": 10376,
+        "name": "ACCIMonitor.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.00037105531098887725,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 10476,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.009696912127175992,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 10516,
+        "name": "AcPowerNotification.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03500288433661742,
+        "num_threads": 11,
+        "port_numbers": []
+    },
+    {
+        "pid": 10580,
+        "name": "node.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1901287413507007,
+        "num_threads": 13,
+        "port_numbers": []
+    },
+    {
+        "pid": 10604,
+        "name": "mcapexe.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0012863250780947744,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 10660,
+        "name": "steamwebhelper.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.47878503627931457,
+        "num_threads": 29,
+        "port_numbers": []
+    },
+    {
+        "pid": 10664,
+        "name": "chrome.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0717314232395403,
+        "num_threads": 29,
+        "port_numbers": []
+    },
+    {
+        "pid": 10804,
+        "name": "RadeonSoftware.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.18575028868103194,
+        "num_threads": 46,
+        "port_numbers": []
+    },
+    {
+        "pid": 10836,
+        "name": "node.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.2784151683453209,
+        "num_threads": 15,
+        "port_numbers": []
+    },
+    {
+        "pid": 10916,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.10928815759659065,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 10932,
+        "name": "explorer.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.4035043453050617,
+        "num_threads": 104,
+        "port_numbers": []
+    },
+    {
+        "pid": 10940,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07735266383081461,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 11152,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.04568927729309708,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 11164,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.05776094341060189,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 11208,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04509558879551488,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 11372,
+        "name": "dasHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01825592130065276,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 11420,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.12670302019233529,
+        "num_threads": 12,
+        "port_numbers": [
+            7680,
+            7680
+        ]
+    },
+    {
+        "pid": 11476,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.014124838838309927,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 11604,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.043413471385698635,
+        "num_threads": 9,
+        "port_numbers": [
+            5040
+        ]
+    },
+    {
+        "pid": 11684,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01006796743816487,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 11732,
+        "name": "RtkAudUService64.exe",
+        "cpu_percent": 1.0416666666666667,
+        "memory_percent": 0.013852731610251417,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 11736,
+        "name": "audiodg.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.16071642369964903,
+        "num_threads": 16,
+        "port_numbers": []
+    },
+    {
+        "pid": 11964,
+        "name": "chrome.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.4544378709934684,
+        "num_threads": 35,
+        "port_numbers": []
+    },
+    {
+        "pid": 11976,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03047600954255312,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 12028,
+        "name": "mcafee-security-ft.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.09536121492414146,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 12112,
+        "name": "svchost.exe",
+        "cpu_percent": 0.2604166666666667,
+        "memory_percent": 0.021867526327611166,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 12172,
+        "name": "ASUSSmartDisplayControl.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.011527451661387786,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 12200,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.010166915521095235,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 12252,
+        "name": "WmiApSrv.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06065517483631514,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 12296,
+        "name": "conhost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.0035373939647606292,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 12304,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04935035636152067,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 12552,
+        "name": "conhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03896080765383211,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 12568,
+        "name": "asus_framework.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.025973871769221404,
+        "num_threads": 20,
+        "port_numbers": []
+    },
+    {
+        "pid": 12676,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.018948557881165333,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 12764,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04556559218943412,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 12796,
+        "name": "Code.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.5383023081619305,
+        "num_threads": 12,
+        "port_numbers": []
+    },
+    {
+        "pid": 12940,
+        "name": "AUEPMaster.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.022238581638600045,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 12968,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.031886019724310856,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 13080,
+        "name": "ArmourySocketServer.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.013555887361460316,
+        "num_threads": 17,
+        "port_numbers": [
+            9012,
+            9012,
+            9013,
+            9013
+        ]
+    },
+    {
+        "pid": 13084,
+        "name": "cmd.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04289399395031421,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 13200,
+        "name": "Code.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.2540244659029854,
+        "num_threads": 16,
+        "port_numbers": []
+    },
+    {
+        "pid": 13472,
+        "name": "steamwebhelper.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.8667852064700172,
+        "num_threads": 18,
+        "port_numbers": []
+    },
+    {
+        "pid": 13524,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.030649168687681257,
+        "num_threads": 11,
+        "port_numbers": []
+    },
+    {
+        "pid": 13832,
+        "name": "AUEPDU.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.001212114015896999,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 13868,
+        "name": "python3.11.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.2589718700495037,
+        "num_threads": 17,
+        "port_numbers": []
+    },
+    {
+        "pid": 14044,
+        "name": "WidgetService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06975839846590892,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 14056,
+        "name": "python3.11.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.2592687142982948,
+        "num_threads": 17,
+        "port_numbers": []
+    },
+    {
+        "pid": 14120,
+        "name": "chrome.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.051329318020128016,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 14324,
+        "name": "asus_framework.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0031168646123065687,
+        "num_threads": 137,
+        "port_numbers": []
+    },
+    {
+        "pid": 14484,
+        "name": "steamwebhelper.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06713627426825419,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 14488,
+        "name": "NVDisplay.Container.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.09395120474238372,
+        "num_threads": 40,
+        "port_numbers": []
+    },
+    {
+        "pid": 14800,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.04197872418320831,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 14920,
+        "name": "cncmd.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.00037105531098887725,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 15760,
+        "name": "RtkAudUService64.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.020457516145853432,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 15784,
+        "name": "dllhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.05367933498972424,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 15980,
+        "name": "cmd.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.03708079407815513,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 16088,
+        "name": "chrome.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.34112351590244117,
+        "num_threads": 18,
+        "port_numbers": []
+    },
+    {
+        "pid": 16104,
+        "name": "SearchIndexer.exe",
+        "cpu_percent": 1.0416666666666667,
+        "memory_percent": 0.2676545643266435,
+        "num_threads": 10,
+        "port_numbers": []
+    },
+    {
+        "pid": 16240,
+        "name": "node.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 2.4814694977692153,
+        "num_threads": 13,
+        "port_numbers": [
+            3000
+        ]
+    },
+    {
+        "pid": 16348,
+        "name": "steamservice.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.010092704458897461,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 16396,
+        "name": "powershell.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.31205751654164576,
+        "num_threads": 9,
+        "port_numbers": []
+    },
+    {
+        "pid": 16648,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.01076060401867744,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 16660,
+        "name": "ctfmon.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.16511961339005038,
+        "num_threads": 14,
+        "port_numbers": []
+    },
+    {
+        "pid": 16724,
+        "name": "svchost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.0719599933111096,
+        "num_threads": 26,
+        "port_numbers": []
+    },
+    {
+        "pid": 16744,
+        "name": "CPUMetricsServer.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.012962198863878113,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 16764,
+        "name": "python3.11.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.2297079745228476,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 16832,
+        "name": "python3.11.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.26095083170811106,
+        "num_threads": 16,
+        "port_numbers": []
+    },
+    {
+        "pid": 16948,
+        "name": "asus_framework.exe",
+        "cpu_percent": 1.0416666666666667,
+        "memory_percent": 0.06661679683286977,
+        "num_threads": 26,
+        "port_numbers": [
+            1043,
+            1043,
+            1042,
+            1042
+        ]
+    },
+    {
+        "pid": 17052,
+        "name": "SecurityHealthService.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.10960973886611433,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 17064,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.05162616226891912,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 17068,
+        "name": "svchost.exe",
+        "cpu_percent": 1.0416666666666667,
+        "memory_percent": 0.0474456057651111,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 17100,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04319083819910531,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 17148,
+        "name": "AMDRSServ.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03213338993163677,
+        "num_threads": 10,
+        "port_numbers": []
+    },
+    {
+        "pid": 17448,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04220135736980164,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 17456,
+        "name": "WmiPrvSE.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06948629123785041,
+        "num_threads": 9,
+        "port_numbers": []
+    },
+    {
+        "pid": 17504,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08714852404092097,
+        "num_threads": 17,
+        "port_numbers": []
+    },
+    {
+        "pid": 17516,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.044452426256467496,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 17544,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1420647100672748,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 17752,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.012986935884610702,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 17844,
+        "name": "Code.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.45929226394203226,
+        "num_threads": 19,
+        "port_numbers": []
+    },
+    {
+        "pid": 17964,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.010463759769886338,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 18100,
+        "name": "Code.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.6412083144095124,
+        "num_threads": 46,
+        "port_numbers": []
+    },
+    {
+        "pid": 18180,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.24318965082211014,
+        "num_threads": 17,
+        "port_numbers": []
+    },
+    {
+        "pid": 18284,
+        "name": "WhatsApp.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.1252128620634039,
+        "num_threads": 36,
+        "port_numbers": []
+    },
+    {
+        "pid": 18404,
+        "name": "python3.11.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.2617918904130192,
+        "num_threads": 15,
+        "port_numbers": []
+    },
+    {
+        "pid": 18484,
+        "name": "wlanext.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.00034631829025628545,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 18584,
+        "name": "WmiPrvSE.exe",
+        "cpu_percent": 0.78125,
+        "memory_percent": 0.2849457418187251,
+        "num_threads": 11,
+        "port_numbers": []
+    },
+    {
+        "pid": 18664,
+        "name": "Widgets.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.2191700036907635,
+        "num_threads": 16,
+        "port_numbers": []
+    },
+    {
+        "pid": 18816,
+        "name": "TextInputHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.12140929775556063,
+        "num_threads": 34,
+        "port_numbers": []
+    },
+    {
+        "pid": 18824,
+        "name": "steamwebhelper.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.3042900920316119,
+        "num_threads": 40,
+        "port_numbers": []
+    },
+    {
+        "pid": 18932,
+        "name": "Code.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.5290506624079412,
+        "num_threads": 18,
+        "port_numbers": []
+    },
+    {
+        "pid": 18992,
+        "name": "chrome.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9136618607582787,
+        "num_threads": 28,
+        "port_numbers": []
+    },
+    {
+        "pid": 19012,
+        "name": "cmd.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.042869256929581614,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 19028,
+        "name": "Video.UI.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.016153274538382455,
+        "num_threads": 15,
+        "port_numbers": []
+    },
+    {
+        "pid": 19268,
+        "name": "dwm.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.8859069234963107,
+        "num_threads": 36,
+        "port_numbers": []
+    },
+    {
+        "pid": 19348,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 9.894808293036726e-05,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 19432,
+        "name": "chrome.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.9805448279342313,
+        "num_threads": 54,
+        "port_numbers": []
+    },
+    {
+        "pid": 19484,
+        "name": "taskhostw.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08821221593242243,
+        "num_threads": 8,
+        "port_numbers": []
+    },
+    {
+        "pid": 19708,
+        "name": "conhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.00034631829025628545,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 19816,
+        "name": "ShellExperienceHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.2396522568573495,
+        "num_threads": 27,
+        "port_numbers": []
+    },
+    {
+        "pid": 19936,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.031341805268193836,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 19976,
+        "name": "XboxPcAppFT.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.021694367182483024,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 20104,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.026889141536327307,
+        "num_threads": 4,
+        "port_numbers": []
+    },
+    {
+        "pid": 20156,
+        "name": "node.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.3327129288533599,
+        "num_threads": 15,
+        "port_numbers": []
+    },
+    {
+        "pid": 20232,
+        "name": "fontdrvhost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.011552188682120379,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 20388,
+        "name": "StartMenuExperienceHost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.14607210742595467,
+        "num_threads": 20,
+        "port_numbers": []
+    },
+    {
+        "pid": 20556,
+        "name": "chrome.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.1417926028392163,
+        "num_threads": 10,
+        "port_numbers": []
+    },
+    {
+        "pid": 20656,
+        "name": "PhoneExperienceHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.8171874799011707,
+        "num_threads": 26,
+        "port_numbers": []
+    },
+    {
+        "pid": 20792,
+        "name": "chrome.exe",
+        "cpu_percent": 0.2604166666666667,
+        "memory_percent": 0.19307244681787913,
+        "num_threads": 13,
+        "port_numbers": []
+    },
+    {
+        "pid": 21132,
+        "name": "Code.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.914972922857106,
+        "num_threads": 19,
+        "port_numbers": [
+            65124
+        ]
+    },
+    {
+        "pid": 21204,
+        "name": "Code.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0714098419700167,
+        "num_threads": 10,
+        "port_numbers": []
+    },
+    {
+        "pid": 21244,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.15792114035686616,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 21268,
+        "name": "chrome.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.2287372938293006,
+        "num_threads": 30,
+        "port_numbers": []
+    },
+    {
+        "pid": 21308,
+        "name": "conhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03933186296482099,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 21372,
+        "name": "powershell.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.44197634942921804,
+        "num_threads": 9,
+        "port_numbers": []
+    },
+    {
+        "pid": 21472,
+        "name": "Code.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1762017986782515,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 21840,
+        "name": "chrome.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.34357248095496773,
+        "num_threads": 22,
+        "port_numbers": []
+    },
+    {
+        "pid": 22008,
+        "name": "node.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1952740416630798,
+        "num_threads": 9,
+        "port_numbers": []
+    },
+    {
+        "pid": 22052,
+        "name": "conhost.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.03886185957090175,
+        "num_threads": 5,
+        "port_numbers": []
+    },
+    {
+        "pid": 22248,
+        "name": "WmiPrvSE.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.07698160851982573,
+        "num_threads": 7,
+        "port_numbers": []
+    },
+    {
+        "pid": 22296,
+        "name": "chrome.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 1.6717278611085549,
+        "num_threads": 44,
+        "port_numbers": []
+    },
+    {
+        "pid": 22412,
+        "name": "XboxGameBarWidgets.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.0009152697671058973,
+        "num_threads": 28,
+        "port_numbers": []
+    },
+    {
+        "pid": 22460,
+        "name": "AsusOSD.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.009350593836919706,
+        "num_threads": 2,
+        "port_numbers": []
+    },
+    {
+        "pid": 22512,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.020160671897062332,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 22544,
+        "name": "chrome.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.16153274538382456,
+        "num_threads": 13,
+        "port_numbers": []
+    },
+    {
+        "pid": 22896,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.06698785214385863,
+        "num_threads": 44,
+        "port_numbers": []
+    },
+    {
+        "pid": 23044,
+        "name": "OpenConsole.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.05224458778723391,
+        "num_threads": 3,
+        "port_numbers": []
+    },
+    {
+        "pid": 23100,
+        "name": "chrome.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.3323666105631036,
+        "num_threads": 22,
+        "port_numbers": []
+    },
+    {
+        "pid": 23168,
+        "name": "WmiPrvSE.exe",
+        "cpu_percent": 0.34739583333333335,
+        "memory_percent": 0.07581896854539392,
+        "num_threads": 6,
+        "port_numbers": []
+    },
+    {
+        "pid": 23188,
+        "name": "Code.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.5965579919871842,
+        "num_threads": 21,
+        "port_numbers": []
+    },
+    {
+        "pid": 23204,
+        "name": "RtkUWP.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.24551493077097378,
+        "num_threads": 25,
+        "port_numbers": []
+    },
+    {
+        "pid": 23292,
+        "name": "AMDRSSrcExt.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03520078050247815,
+        "num_threads": 21,
+        "port_numbers": []
+    },
+    {
+        "pid": 23304,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.05204669162137319,
+        "num_threads": 50,
+        "port_numbers": []
+    },
+    {
+        "pid": 23308,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 1.0416666666666667,
+        "memory_percent": 0.03695710897449218,
+        "num_threads": 15,
+        "port_numbers": []
+    },
+    {
+        "pid": 23316,
+        "name": "SDXHelper.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.06782891084876676,
+        "num_threads": 15,
+        "port_numbers": []
+    },
+    {
+        "pid": 23328,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 9.894808293036726e-05,
+        "num_threads": 9,
+        "port_numbers": []
+    },
+    {
+        "pid": 23436,
+        "name": "UserOOBEBroker.exe",
+        "cpu_percent": 0.5208333333333334,
+        "memory_percent": 0.025182287105778467,
+        "num_threads": 1,
+        "port_numbers": []
+    },
+    {
+        "pid": 23540,
+        "name": "node.exe",
+        "cpu_percent": 0.34739583333333335,
+        "memory_percent": 0.43282365175815907,
+        "num_threads": 19,
+        "port_numbers": [
+            8000,
+            8000
+        ]
+    }
+]

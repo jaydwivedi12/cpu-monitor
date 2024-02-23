@@ -10,7 +10,7 @@ function App() {
       <div className="flex justify-center items-center gap-10">
         <div className="w-1/2 h-[100vh]">
           <RealTimeTable />
-          <ProcessLog />
+          {/* <ProcessLog /> */}
         </div>
         <div>
           <RealTimeGraph />

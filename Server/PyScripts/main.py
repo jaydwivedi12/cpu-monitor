@@ -10,6 +10,7 @@ MONGO_PY = os.getenv('MONGO_PY')
 
 def get_process_data():
     process_data = []
+    
     for proc in psutil.process_iter(['pid', 'name', 'cpu_percent', 'memory_percent', 'num_threads', 'connections']):
         try:
             connections = proc.info['connections']
@@ -22,7 +23,7 @@ def get_process_data():
             # print(test_list)
             
            
-            cpu_percent= psutil.cpu_percent(interval=0.1, percpu=True)
+            cpu_percent= psutil.cpu_percent(interval=0, percpu=True)
             cpu_count=psutil.cpu_count
             cpu_percent=(sum(cpu_percent) / cpu_count()/12)
             

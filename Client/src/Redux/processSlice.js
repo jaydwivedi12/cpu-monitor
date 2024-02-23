@@ -11,7 +11,7 @@ const initialState = {
 // Create an async thunk to fetch process data from the backend
 export const fetchProcessData = createAsyncThunk('process/fetchProcessData', async () => {
   try {
-    const response = await fetch('http://localhost:8080/api/runningprocess');
+    const response = await fetch('http://localhost:8000/api/runningprocess');
     const data = await response.json();
     return data;
   } catch (error) {

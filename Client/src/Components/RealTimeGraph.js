@@ -23,6 +23,29 @@ const RealTimeGraph = () => {
 
   useEffect(() => {
     // Draw or update the CPU chart when processData changes
+    const aggregateData = () => {
+      // Aggregate logic
+      const aggregatedData = {
+        cpu_percentages: Array(100).fill(0),
+        memory_percentages: Array(100).fill(0),
+      };
+
+      processData.forEach((process) => {
+        const cpuIndex = Math.round(process.cpu_percent);
+        aggregatedData.cpu_percentages[cpuIndex] += 1;
+
+        const memoryIndex = Math.round(process.memory_percent);
+        aggregatedData.memory_percentages[memoryIndex] += 1;
+      });
+
+      // Normalize data
+      const totalProcesses = processData.length;
+      aggregatedData.cpu_percentages = aggregatedData.cpu_percentages.map((count) => (count / totalProcesses) * 100);
+      aggregatedData.memory_percentages = aggregatedData.memory_percentages.map((count) => (count / totalProcesses) * 100);
+
+      return aggregatedData;
+    };
+
     if (cpuChartRef.current && processData.length > 0) {
       const aggregatedData = aggregateData();
 
@@ -75,6 +98,29 @@ const RealTimeGraph = () => {
 
   useEffect(() => {
     // Draw or update the memory chart when processData changes
+    const aggregateData = () => {
+      // Aggregate logic
+      const aggregatedData = {
+        cpu_percentages: Array(100).fill(0),
+        memory_percentages: Array(100).fill(0),
+      };
+
+      processData.forEach((process) => {
+        const cpuIndex = Math.round(process.cpu_percent);
+        aggregatedData.cpu_percentages[cpuIndex] += 1;
+
+        const memoryIndex = Math.round(process.memory_percent);
+        aggregatedData.memory_percentages[memoryIndex] += 1;
+      });
+
+      // Normalize data
+      const totalProcesses = processData.length;
+      aggregatedData.cpu_percentages = aggregatedData.cpu_percentages.map((count) => (count / totalProcesses) * 100);
+      aggregatedData.memory_percentages = aggregatedData.memory_percentages.map((count) => (count / totalProcesses) * 100);
+
+      return aggregatedData;
+    };
+
     if (memoryChartRef.current && processData.length > 0) {
       const aggregatedData = aggregateData();
 
@@ -124,29 +170,6 @@ const RealTimeGraph = () => {
       return () => memoryChart.destroy(); // Cleanup chart on component unmount
     }
   }, [processData]);
-
-  const aggregateData = () => {
-    // Aggregate logic
-    const aggregatedData = {
-      cpu_percentages: Array(100).fill(0),
-      memory_percentages: Array(100).fill(0),
-    };
-
-    processData.forEach((process) => {
-      const cpuIndex = Math.round(process.cpu_percent);
-      aggregatedData.cpu_percentages[cpuIndex] += 1;
-
-      const memoryIndex = Math.round(process.memory_percent);
-      aggregatedData.memory_percentages[memoryIndex] += 1;
-    });
-
-    // Normalize data
-    const totalProcesses = processData.length;
-    aggregatedData.cpu_percentages = aggregatedData.cpu_percentages.map((count) => (count / totalProcesses) * 100);
-    aggregatedData.memory_percentages = aggregatedData.memory_percentages.map((count) => (count / totalProcesses) * 100);
-
-    return aggregatedData;
-  };
 
   return (
     <div>
