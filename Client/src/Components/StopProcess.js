@@ -21,7 +21,8 @@ const StopProcess = () => {
 
   const handleStopProcess = async () => {
     try {
-      const response = await axios.post('http://localhost:8080/api/terminateprocess', { pid });
+      console.log("fjsdhifd");
+      const response = await axios.post('http://localhost:8000/api/terminateprocess', { pid });
 
       if (response.data.success) {
         console.log('Process stopped successfully');
